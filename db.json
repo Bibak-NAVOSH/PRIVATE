@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "id": 1,
+  "name": "ALI SABET",
+  "username": "ASA",
+   "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "MASHHAD" }
+  },
+  "post": "head",
+ 
   }
 }
