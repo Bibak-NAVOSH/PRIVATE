@@ -2,12 +2,13 @@
   "id": 1,
   "name": "ALI SABET",
   "username": "ASA",
-   "address": {
-    "street": "Kulas Light",
-    "suite": "Apt. 556",
-    "city": "MASHHAD" }
+  "address": {
+    "city": "MASHHAD",
+    "zipcode": "",    
   },
-  "post": "head",
- 
+  "phone": "093XXXXXXXX",
+  "company": {
+    "name": "NAVOSH",
+    "JOB": "HEAD",
   }
 }
