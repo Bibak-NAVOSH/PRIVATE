@@ -3,12 +3,10 @@
   "name": "ALI SABET",
   "username": "ASA",
   "address": {
-    "city": "MASHHAD",
-    "zipcode": "",    
+    "city": "MASHHAD"
   },
-  "phone": "093XXXXXXXX",
+  "phone": "09XXXXXXXX",
   "company": {
-    "name": "NAVOSH",
-    "JOB": "HEAD",
+    "name": "NAVOSH"
   }
 }
