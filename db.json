@@ -1,11 +1,9 @@
 {
   "id": 1,
   "name": "ALI SABET",
-  "username": "ASA",
   "address": {
     "city": "MASHHAD"
   },
-  "phone": "09XXXXXXXX",
   "company": {
     "name": "NAVOSH"
   }
